@@ -1,6 +1,6 @@
 ![](https://user-images.githubusercontent.com/44474792/187961960-ae728077-6fb4-4e40-b074-aa6fabb396ee.jpg)
 
-[**Inovus Labs**](https://inovuslabs.org/) is an umbrella Student Community with the ideology relied around the core value of **_peer-to-peer learning_** & **_self-exploration_**. Since 2015 - the year it was formed, Inovus Labs facilitates the daily activities of different entities like [IEDC](https://iedc.startupmission.in/), [TinkerHub](https://tinkerhub.org/), [HackClub](https://kjcmt.hackclub.com/) & [GTech µLearn](https://mulearn.org/) at [Kristu Jyoti College](http://kjcmt.ac.in/).
+[**Inovus Labs**](https://inovuslabs.org/) is an umbrella Student Community with the ideology relied around the core value of **_peer-to-peer learning_** & **_self-exploration_**. Since 2015 - the year it was formed, Inovus Labs facilitates the daily activities of different entities like [**IEDC**](https://iedc.startupmission.in/), [**TinkerHub**](https://tinkerhub.org/), [**HackClub**](https://kjcmt.hackclub.com/) & [**GTech µLearn**](https://mulearn.org/) at Kristu Jyoti College.
 
 ## Our Vision
 
@@ -26,8 +26,11 @@
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </p>
 
-## Active Projects
+## Opensource Projects
 
-- [**Chacko Mash**](https://github.com/inovus-labs/chacko-mash)
-- [**Scrapbook**](https://github.com/inovus-labs/scrapbook)
-- [**IoT Experiments**](https://github.com/inovus-labs/Arduino-Code-Scribblings)
+| SI No | Project Name | Project Description | Repo Link | Status |
+| --- | --- | --- | --- | --- |
+| 1 | Chacko Mash | Official Discord Bot | [View Repo](https://github.com/inovus-labs/chacko-mash) | :white_check_mark: |
+| 2 | Scrapbook | Daily diary for Inovus Fellows | [Scrapbook](https://github.com/inovus-labs/scrapbook) & [Scrapbook Bot](https://github.com/decoded-cipher/scrapbook-bot) | :white_check_mark: |
+| 3 | Smart Inovus | IoT Automation of Inovus Labs | [View Project Board](https://github.com/users/decoded-cipher/projects/8) | :negative_squared_cross_mark: |
+
