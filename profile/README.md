@@ -1,6 +1,6 @@
 ![](https://user-images.githubusercontent.com/44474792/187961960-ae728077-6fb4-4e40-b074-aa6fabb396ee.jpg)
 
-[Inovus Labs](https://inovuslabs.org/) is an umbrella Student Community with the ideology relied around the core value of _peer-to-peer learning_ & _self-exploration_. Since 2015 - the year it was formed, Inovus Labs facilitates the daily activities of different entities like [IEDC](https://iedc.startupmission.in/), [TinkerHub](https://tinkerhub.org/), [HackClub](https://kjcmt.hackclub.com/) & [GTech µLearn](https://mulearn.org/) at [Kristu Jyoti College](http://kjcmt.ac.in/).
+[**Inovus Labs**](https://inovuslabs.org/) is an umbrella Student Community with the ideology relied around the core value of **_peer-to-peer learning_** & **_self-exploration_**. Since 2015 - the year it was formed, Inovus Labs facilitates the daily activities of different entities like [IEDC](https://iedc.startupmission.in/), [TinkerHub](https://tinkerhub.org/), [HackClub](https://kjcmt.hackclub.com/) & [GTech µLearn](https://mulearn.org/) at [Kristu Jyoti College](http://kjcmt.ac.in/).
 
 ## Our Vision
 
