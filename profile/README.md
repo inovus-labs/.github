@@ -31,11 +31,12 @@
     </a>
 </p>
 
-## Opensource Projects
+## Current Projects
 
-| SI No | Project Name | Project Description | Repo Link | Status |
+| No | Project Name | Project Description | Repo Link | Status |
 | --- | --- | --- | --- | --- |
 | 1 | **Chacko Mash** | The official Discord Bot | [Chacko Mash](https://github.com/inovus-labs/chacko-mash) & [Inovus API](https://github.com/inovus-labs/inovus-api) | :white_check_mark: |
 | 2 | **Inovus Scrapbook** | A daily diary for Inovus Fellows | [Scrapbook](https://github.com/inovus-labs/scrapbook) , [Scrapbook Bot](https://github.com/decoded-cipher/scrapbook-bot) & [Inovus API](https://github.com/inovus-labs/inovus-api)| :white_check_mark: |
 | 3 | **Smart Inovus** | IoT automation of Inovus Labs | [Project Board](https://github.com/users/decoded-cipher/projects/8) | :negative_squared_cross_mark: |
+| 4 | **Inovus Profiles** | Portfolio for active Inovus Fellows | [Inovus Profiles](https://github.com/inovus-labs/inovus-profiles) & [Inovus API](https://github.com/inovus-labs/inovus-api) | :negative_squared_cross_mark: |
 
